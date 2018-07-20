@@ -1,2 +1,2 @@
 # Chess-Game
-A simple chess game.
+A simple chess game in Java.
