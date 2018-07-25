@@ -2,6 +2,9 @@ package com.chess.engine.board;
 
 import com.chess.engine.pieces.Piece;
 
+/**
+ * The hot fix comment, awesome! 
+ */
 public abstract class Move {
 
     final Board board;
