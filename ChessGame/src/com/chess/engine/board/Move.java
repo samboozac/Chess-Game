@@ -3,7 +3,7 @@ package com.chess.engine.board;
 import com.chess.engine.pieces.Piece;
 
 /**
- * Just a random comment, please remove me!
+ * Just a random comment, please remove me, yeah!
  */
 public abstract class Move {
 
