@@ -85,4 +85,8 @@ public abstract class Tile {
             return this.pieceOnTile;
         }
     }
+
+    /**
+     * Just a test comment, ignore me or remove me.
+     */
 }
