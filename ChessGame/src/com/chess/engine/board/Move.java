@@ -2,6 +2,10 @@ package com.chess.engine.board;
 
 import com.chess.engine.pieces.Piece;
 
+/**
+ * Just a comment created on my laptop, as a  branch "iss2". Remove me please!
+ */
+
 public abstract class Move {
 
     final Board board;
