@@ -13,7 +13,8 @@ import java.util.List;
 
 import static com.chess.engine.board.Move.*;
 
-public class Knight extends Piece{
+public class Knight extends Piece {
+
     private final static int[] CANDIDATE_MOVE_COORDINATES = {-17, -15, -10, -6, 6, 10, 15, 17};
 
     Knight(final int piecePosition, final Alliance pieceAlliance) {
